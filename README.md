@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Syed Shahzain Hassan, a computer systems engineer to be from NED university of engineering and technology, a most sophisticated university in Pakistan, with an increasing interest in programming. 
+- 👀 I’m interested in development programs for future.
+- 🌱 I’m currently learning Python with a goal of having experties over various other languages as well.
+- 💞️ I’m looking to collaborate on basic Python problems for the tim being.
+- 📫 You can reach me at shahzainhassanmirza@outlook.com or Whatsapp at +923102837743.
